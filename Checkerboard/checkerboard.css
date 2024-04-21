@@ -1,0 +1,23 @@
+.outer{ 
+ height: 800px;
+ width:800px;          
+ border: 1px solid red;
+ margin:0px auto;
+}
+.row{
+ height: 100px;
+ width:800px;
+ background:#ccc;
+}
+.black{
+height: 100px;
+width:100px;
+background:black;
+float: left;
+}
+.white{
+height: 100px;
+width: 100px;
+background: white;
+float: left;
+}
